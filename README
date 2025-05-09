@@ -1,1 +1,56 @@
-Hi im blagoja
+# Hi, I'm Bagi 👋
+
+Welcome to my corner of GitHub — a place where personal passion projects meet real-world solutions. I'm currently focused on building smart, clean, and user-first apps using technologies like React, Tauri, Rust, SQL, and a few experimental tools I like to break (and sometimes fix).
+
+What I do
+
+- Studying Informatics and Data Science at FERI in Slovenia
+- Currently working on a business management app for my dad — learning tons in the process
+- I love making sleek UIs with smooth animations (hello GSAP + Barba.js)
+
+Tech Stack
+
+- **Frontend:** React, HTML/CSS/JS, Tailwind (sometimes), GSAP, Barba.js
+- **Backend:** SQL, Rust, Spring Boot (Java), Tauri
+- **Tools:** Git, Yarn, VS Code, Figma (for UI), GitHub Projects
+
+---
+
+## 📌 Projects I'm proud of
+
+### 🎵 Vinyl Store
+An online store built around a true story. Clean layout, JSON-powered product pages, and cart management — all handcrafted.
+
+### 🧾 Business App (WIP)
+Web-based platform for invoicing, scheduling, and reporting — replacing the old desktop app my dad used. Fullstack, secure, and built with love.
+
+### 🎮 Hangman Game
+Minimalist hangman built with pixelated squares and randomness. Just a little weekend experiment that turned into a UI playground.
+
+> 💡 All my pinned repos have clear README files, screenshots, and real context behind the project.
+
+---
+
+## 🧭 What I'm exploring
+
+- Rust + Tauri for desktop-quality web apps
+- Svelte as a lightweight alternative to React
+- Clean architecture and better backend patterns
+- Ways to make my code more human-readable and future-proof
+
+---
+
+## 📫 Get in touch
+
+I'm always open to feedback, ideas, or just a quick tech chat. You can reach me here:
+
+- 📬 Email: [your email]
+- 🌐 Website: [your portfolio]
+- 🧵 Threads: [if any]
+- 🐦 Twitter/X: [if any]
+
+Thanks for stopping by!
+
+---
+
+_“Make it work, make it right, make it fast.” – Kent Beck_
