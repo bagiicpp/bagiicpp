@@ -13,5 +13,5 @@
 <details>
   <summary>📈 GitHub Stats</summary>
 
-  ![Bagii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+  ![Bagii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagiicpp&show_icons=true&theme=dark)
 </details>
