@@ -10,4 +10,8 @@
   <a href="https://www.linkedin.com/in/blagoja-vasilev-6193202bb/">💼 LinkedIn</a>
 </details>
 
+<details>
+  <summary>📈 GitHub Stats</summary>
 
+  ![Bagii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+</details>
