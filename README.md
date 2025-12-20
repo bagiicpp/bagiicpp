@@ -1,7 +1,5 @@
 <h1>👋 Hi, I'm Bagii</h1>
 
----
-
 <h3>Software Engineer | Machine Learning</h3>
 
 <p><strong>📍 Based in Slovenia</strong></p>
@@ -29,16 +27,12 @@ with a strong emphasis on <strong>Python</strong>, data-driven problem solving, 
 💻 Reach out via social networks or directly here on <strong>GitHub</strong>.
 </p>
 
----
-
 <details>
   <summary><strong>🌐 Socials</strong></summary>
   <br>
   <a href="https://www.instagram.com/blagoja.exe/">📸 Instagram</a><br>
   <a href="https://www.linkedin.com/in/blagoja-vasilev-6193202bb/">💼 LinkedIn</a>
 </details>
-
-<br>
 
 <details>
   <summary><strong>📈 GitHub Stats</strong></summary>
