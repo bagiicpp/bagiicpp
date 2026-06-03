@@ -18,7 +18,7 @@ I have strong experience in **modern web development**, building production-read
 
 I am currently **studying and building my career in Machine Learning**, with a strong emphasis on **Python**, data-driven problem solving, and applied ML concepts.
 
-Studying at the **University of Slovenia**
+Studying at the **University of Maribor**
 
 Open to collaboration, research, and meaningful projects.
 
